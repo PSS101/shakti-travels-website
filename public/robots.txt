@@ -1,0 +1,5 @@
+# Robots.txt for Shakti Travels
+User-agent: *
+Allow: /
+
+Sitemap: https://shaktitravels45.in/sitemap.xml
